@@ -1,1 +1,1 @@
-# battleship-project
+# projects
